@@ -1,0 +1,5 @@
+main() {
+	fun(x,y,z) {
+  return x ? x : y ? z : x;
+
+}

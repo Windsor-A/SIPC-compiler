@@ -1,0 +1,4 @@
+fun() {
+                var x,y,z;
+                return not x and y or z;
+        }

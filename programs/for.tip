@@ -1,0 +1,8 @@
+main(){
+    var w, x, y, z;
+    y = 1; z = 10; w = 0;
+    for(x : y .. z){
+        w = w + 1;
+    }
+    return w;
+}
